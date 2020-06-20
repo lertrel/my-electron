@@ -1,0 +1,14 @@
+{
+  "name": "hello-riot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thongchai Sukosi",
+  "license": "ISC",
+  "dependencies": {
+    "riot": "^4.13.1"
+  }
+}
